@@ -1,5 +1,5 @@
 import React from 'react';
-import NewAppointment from './components/NewAppointment/NewAppointment.component'
+import NewAppointment from './components/NewAppointment/new-appointment.component'
 import './App.css';
 
 function App() {

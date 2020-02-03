@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Modal, Button } from "react-bootstrap";
-import './NewAppointment.css';
+import './new-appointment.css';
 
 function NewAppointment () {
 const [show, setShow] = useState(false);
