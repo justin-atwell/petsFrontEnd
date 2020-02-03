@@ -28,6 +28,12 @@ const handleShow = () => { setShow (true);}
                                                             <option value="Dr. Old Guy">Dr. Old Guy</option>
                                                       </select>
                                                 </div>
+                                                <div>
+                                                      <label>Choose a Service Type</label>
+                                                      <select>
+                                                            <option></option>
+                                                      </select>
+                                                </div>
                                           </div>
                                     </form>
                               </Modal.Body>
